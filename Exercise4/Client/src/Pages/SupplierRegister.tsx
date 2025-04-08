@@ -1,166 +1,120 @@
-import React, { useState } from 'react';
-import supplierService from '../services/supplierService';  // נתיב לשירות שלך
-import { SupplierCreate, SupplierProduct } from '../models/types'; // סוגי הנתונים שלך
+import { useState } from "react"
+import { SupplierCreate, Product, SupplierProduct } from "../models/types";
+import supplierService from "../services/supplierService";  // ודא שה-import של השירות נכון
 
-const AddSupplierPage = () => {
-    // const [supplier, setSupplier] = useState<SupplierCreate>({
-    //     companyName: '',
-    //     phoneNumber: '',
-    //     representativeName: '',
-    //     email: '',
-    //     password: '',
-    //     role: 'supplier',
-    // });
+export const Register = () => {
 
-    // const [products, setProducts] = useState<SupplierProduct[]>([
-    //     {
-    //         id: 0,
-    //         name: '',
-    //         price: 0,
-    //         minimumQty: 0,
-    //     },
-    // ]);
+    const [formData, setFormData] = useState<SupplierCreate>({
+        companyName: "",
+        representativeName: "",
+        email: "",
+        phoneNumber: "",  // הוסף את השדה phoneNumber
+        password: "",     // הוסף את השדה password
+        role: "supplier",
+        products: []
+    });
+    
 
-//     const handleSupplierChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-//         const { name, value } = e.target;
-//         setSupplier({
-//             ...supplier,
-//             [name]: value,
-//         });
-//     };
+    const [errors, setErrors] = useState<{ [key: string]: string }>({});
+    const [successMessage, setSuccessMessage] = useState<string | null>(null);
+    const [products, setProducts] = useState<Product[]>([]);  // מצב למוצרים
+    const [supplierId, setSupplierId] = useState<number>(-1);
 
-//     const handleProductChange = (index: number, e: React.ChangeEvent<HTMLInputElement>) => {
-//         const { name, value } = e.target;
-//         const newProducts = [...products];
-//         newProducts[index] = { ...newProducts[index], [name]: value };
-//         setProducts(newProducts);
-//     };
+    const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement>) => {
+        const { name, value } = e.target;
+        setFormData((prev) => ({
+            ...prev,
+            [name]: value
+        }));
+    };
 
-//     const handleAddProduct = () => {
-//         setProducts([
-//             ...products,
-//             {
-//                 id: 0,
-//                 name: '',
-//                 price: 0,
-//                 minimumQty: 0,
-//             },
-//         ]);
-//     };
+    const validate = () => {
+        const newErrors: { [key: string]: string } = {};
 
-//     const handleSubmit = async () => {
-//         try {
-//             // יוצרים את הספק באמצעות supplierService
-//             const createdSupplier = await supplierService.createSupplier(supplier);
-//             console.log('Supplier created successfully:', createdSupplier);
+        if (!formData.companyName.trim()) {
+            newErrors.companyName = "יש להזין שם חברה";
+        }
 
-//             // אם הספק נוצר בהצלחה, נוסיף את המוצרים אליו
-//             const supplierId = createdSupplier.id;
+        if (!formData.representativeName.trim()) {
+            newErrors.representativeName = "יש להזין שם נציג";
+        }
 
-//             // נשלח את המוצרים לשרת
-//             for (let product of products) {
-//                 await supplierService.getProductsBySupplierId(supplierId); // אם יש צורך להוסיף מוצרים לספק
-//                 // כאן אפשר להוסיף לשרת את כל המוצרים בהתאם ל-API
-//             }
+        if (!/\S+@\S+\.\S+/.test(formData.email)) {
+            newErrors.email = "אימייל לא תקין";
+        }
 
-//             console.log('Products added successfully');
-//         } catch (error) {
-//             console.error('Error adding supplier and products:', error);
-//         }
-//     };
+        setErrors(newErrors);
+        return Object.keys(newErrors).length === 0;
+    };
 
-//     return (
-//         <div>
-//             <h1>הוספת ספק</h1>
-//             <form>
-//                 <div>
-//                     <label>שם החברה:</label>
-//                     <input
-//                         type="text"
-//                         name="companyName"
-//                         value={supplier.companyName}
-//                         onChange={handleSupplierChange}
-//                     />
-//                 </div>
-//                 <div>
-//                     <label>מספר טלפון:</label>
-//                     <input
-//                         type="text"
-//                         name="phoneNumber"
-//                         value={supplier.phoneNumber}
-//                         onChange={handleSupplierChange}
-//                     />
-//                 </div>
-//                 <div>
-//                     <label>שם נציג:</label>
-//                     <input
-//                         type="text"
-//                         name="representativeName"
-//                         value={supplier.representativeName}
-//                         onChange={handleSupplierChange}
-//                     />
-//                 </div>
-//                 <div>
-//                     <label>אימייל:</label>
-//                     <input
-//                         type="email"
-//                         name="email"
-//                         value={supplier.email}
-//                         onChange={handleSupplierChange}
-//                     />
-//                 </div>
-//                 <div>
-//                     <label>סיסמה:</label>
-//                     <input
-//                         type="password"
-//                         name="password"
-//                         value={supplier.password}
-//                         onChange={handleSupplierChange}
-//                     />
-//                 </div>
+    const handleSubmit = async (e: React.FormEvent) => {
+        e.preventDefault();
 
-//                 <h2>הוסף מוצרים</h2>
-//                 {products.map((product, index) => (
-//                     <div key={index}>
-//                         <div>
-//                             <label>שם המוצר:</label>
-//                             <input
-//                                 type="text"
-//                                 name="name"
-//                                 value={product.name}
-//                                 onChange={(e) => handleProductChange(index, e)}
-//                             />
-//                         </div>
-//                         <div>
-//                             <label>מחיר:</label>
-//                             <input
-//                                 type="number"
-//                                 name="price"
-//                                 value={product.price}
-//                                 onChange={(e) => handleProductChange(index, e)}
-//                             />
-//                         </div>
-//                         <div>
-//                             <label>כמות מינימלית:</label>
-//                             <input
-//                                 type="number"
-//                                 name="minimumQty"
-//                                 value={product.minimumQty}
-//                                 onChange={(e) => handleProductChange(index, e)}
-//                             />
-//                         </div>
-//                     </div>
-//                 ))}
-//                 <button type="button" onClick={handleAddProduct}>
-//                     הוסף מוצר נוסף
-//                 </button>
+        if (!validate()) return;
 
-//                 <button type="button" onClick={handleSubmit}>
-//                     שלח
-//                 </button>
-//             </form>
-//         </div>
-//     );
- };
+        try {
+            const response = await supplierService.createSupplier(formData);
+            const supplierId = response.id;
+            setSuccessMessage("נרשמת בהצלחה!");
+            setSupplierId(supplierId);
+            console.log(supplierId);
 
-export default AddSupplierPage;
+            // עדכון המוצרים הקשורים לספק
+            const supplierProducts = await supplierService.getProductsBySupplierId(supplierId);
+            setProducts(supplierProducts.map((sp: SupplierProduct) => ({
+                id: sp.productID,
+                name: sp.productID.toString(),  // בנה את שם המוצר (אם יש צורך ב-ID או שדה אחר)
+                price: 0,  // אם המחיר לא קיים ב-SupplierProduct, יש לעדכן בהתאם
+                minimumQty: 0  // אם כמות מינימום לא קיימת, עדכן בהתאם
+            })));
+
+        } catch (error: any) {
+            if (error.response && error.response.status === 400) {
+                setSuccessMessage("");
+                setErrors({ email: error.response.data.message });
+            } else {
+                alert("שגיאה כללית. אנא נסה שוב מאוחר יותר.");
+            }
+        }
+    };
+
+    const handleAddProduct = (product: Product) => {
+        setProducts(prev => [...prev, product]);
+    };
+
+    return (
+        <div style={{ maxWidth: "400px", margin: "2rem auto", padding: "1rem", border: "1px solid black" }}>
+            <h2>טופס הרשמה</h2>
+            {successMessage && <p style={{ color: "green" }}>{successMessage}</p>}
+            <form onSubmit={handleSubmit} noValidate>
+                <div>
+                    <label>שם חברה:</label>
+                    <input type="text" name="companyName" value={formData.companyName} onChange={handleChange} />
+                    {errors.companyName && <p style={{ color: "red" }}>{errors.companyName}</p>}
+                </div>
+
+                <div>
+                    <label>שם נציג:</label>
+                    <input type="text" name="representativeName" value={formData.representativeName} onChange={handleChange} />
+                    {errors.representativeName && <p style={{ color: "red" }}>{errors.representativeName}</p>}
+                </div>
+
+                <div>
+                    <label>אימייל:</label>
+                    <input type="email" name="email" value={formData.email} onChange={handleChange} />
+                    {errors.email && <p style={{ color: "red" }}>{errors.email}</p>}
+                </div>
+
+                <button type="submit" style={{ marginTop: "1rem" }}>הירשם</button>
+            </form>
+
+            <h3>מוצרים שנוספו:</h3>
+            <ul>
+                {products.map((product, index) => (
+                    <li key={index}>{product.name} - {product.price} ש"ח - מינימום {product.minimumQty} יחידות</li>
+                ))}
+            </ul>
+        </div>
+    );
+};
+export default Register;

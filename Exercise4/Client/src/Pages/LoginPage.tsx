@@ -19,7 +19,7 @@ const Login: React.FC = () => {
       if (data.role === "User") {
         navigate("/user-page");
       } else if (data.role === "Supplier") {
-        navigate(`/supplier-page/${data.id}`);      }
+        navigate(`/supplier-page/${data.token}`);       }
     } catch (err: any) {
       setError(err.message || 'שגיאה לא מזוהה');
     }

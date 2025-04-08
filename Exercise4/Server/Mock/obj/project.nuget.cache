@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qW9qeRjJvd4=",
+  "dgSpecHash": "XLFi/QsH+5o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Server\\Mock\\Mock.csproj",
+  "projectFilePath": "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Exercise4\\Server\\Mock\\Mock.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\תמר לוי\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\תמר לוי\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

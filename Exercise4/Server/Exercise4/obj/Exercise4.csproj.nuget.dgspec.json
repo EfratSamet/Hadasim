@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Server\\Exercise4\\Exercise4.csproj": {}
+    "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Exercise4\\Server\\Exercise4\\Exercise4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Server\\Exercise4\\Exercise4.csproj": {
+    "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Exercise4\\Server\\Exercise4\\Exercise4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Server\\Exercise4\\Exercise4.csproj",
+        "projectUniqueName": "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Exercise4\\Server\\Exercise4\\Exercise4.csproj",
         "projectName": "Exercise4",
-        "projectPath": "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Server\\Exercise4\\Exercise4.csproj",
+        "projectPath": "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Exercise4\\Server\\Exercise4\\Exercise4.csproj",
         "packagesPath": "C:\\Users\\תמר לוי\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Server\\Exercise4\\obj\\",
+        "outputPath": "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Exercise4\\Server\\Exercise4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,11 +34,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Server\\Mock\\Mock.csproj": {
-                "projectPath": "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Server\\Mock\\Mock.csproj"
+              "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Exercise4\\Server\\Mock\\Mock.csproj": {
+                "projectPath": "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Exercise4\\Server\\Mock\\Mock.csproj"
               },
-              "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Server\\Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Server\\Service\\Service.csproj"
+              "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Exercise4\\Server\\Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Exercise4\\Server\\Service\\Service.csproj"
               }
             }
           }
@@ -115,14 +115,14 @@
         }
       }
     },
-    "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Server\\Mock\\Mock.csproj": {
+    "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Exercise4\\Server\\Mock\\Mock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Server\\Mock\\Mock.csproj",
+        "projectUniqueName": "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Exercise4\\Server\\Mock\\Mock.csproj",
         "projectName": "Mock",
-        "projectPath": "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Server\\Mock\\Mock.csproj",
+        "projectPath": "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Exercise4\\Server\\Mock\\Mock.csproj",
         "packagesPath": "C:\\Users\\תמר לוי\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Server\\Mock\\obj\\",
+        "outputPath": "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Exercise4\\Server\\Mock\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -145,8 +145,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Server\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Server\\Repository\\Repository.csproj"
+              "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Exercise4\\Server\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Exercise4\\Server\\Repository\\Repository.csproj"
               }
             }
           }
@@ -220,14 +220,14 @@
         }
       }
     },
-    "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Server\\Repository\\Repository.csproj": {
+    "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Exercise4\\Server\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Server\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Exercise4\\Server\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Server\\Repository\\Repository.csproj",
+        "projectPath": "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Exercise4\\Server\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\תמר לוי\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Server\\Repository\\obj\\",
+        "outputPath": "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Exercise4\\Server\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -321,14 +321,14 @@
         }
       }
     },
-    "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Server\\Service\\Service.csproj": {
+    "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Exercise4\\Server\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Server\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Exercise4\\Server\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Server\\Service\\Service.csproj",
+        "projectPath": "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Exercise4\\Server\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\תמר לוי\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Server\\Service\\obj\\",
+        "outputPath": "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Exercise4\\Server\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -351,8 +351,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Server\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Server\\Repository\\Repository.csproj"
+              "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Exercise4\\Server\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\תמר לוי\\OneDrive\\Documentos\\הדסים\\Exercise4\\Server\\Repository\\Repository.csproj"
               }
             }
           }

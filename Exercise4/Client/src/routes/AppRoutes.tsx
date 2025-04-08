@@ -19,7 +19,7 @@ const AppRoutes = () => {
 
         {/* עמודים ציבוריים */}
         <Route path="/login" element={<LoginPage />} />
-        {/* <Route path="/supplier-register" element={<SupplierRegister />} /> */}
+        <Route path="/supplier-register" element={<SupplierRegister />} />
         <Route path="/user-page" element={<UserPage />} />
         <Route path="/supplier-page" element={<SupplierPage supplierId={0} />} />
         <Route path="/user-orders" element={<UserOrdersPage />} />
