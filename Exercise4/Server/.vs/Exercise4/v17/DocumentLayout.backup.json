@@ -1,0 +1,753 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\service\\services\\orderitemsrvice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\services\\orderitemsrvice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\service\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B194796-13CF-4569-86B7-BD0DD53E0B63}|Exercise4\\Exercise4.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\exercise4\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B194796-13CF-4569-86B7-BD0DD53E0B63}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\service\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\service\\interfaces\\iorderservice..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\interfaces\\iorderservice..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\repository\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\repository\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\repository\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Mock\\Migrations\\20250408183347_init7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mock\\Migrations\\20250408183347_init7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B194796-13CF-4569-86B7-BD0DD53E0B63}|Exercise4\\Exercise4.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\exercise4\\controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B194796-13CF-4569-86B7-BD0DD53E0B63}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\service\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Mock\\Migrations\\20250408083246_init6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mock\\Migrations\\20250408083246_init6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\service\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\repository\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B194796-13CF-4569-86B7-BD0DD53E0B63}|Exercise4\\Exercise4.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\exercise4\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B194796-13CF-4569-86B7-BD0DD53E0B63}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B194796-13CF-4569-86B7-BD0DD53E0B63}|Exercise4\\Exercise4.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\exercise4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B194796-13CF-4569-86B7-BD0DD53E0B63}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\repository\\repositories\\extensionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\extensionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B194796-13CF-4569-86B7-BD0DD53E0B63}|Exercise4\\Exercise4.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\exercise4\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B194796-13CF-4569-86B7-BD0DD53E0B63}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\service\\interfaces\\iproductservice..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\interfaces\\iproductservice..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\repository\\interfaces\\iproductrepositiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\iproductrepositiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\repository\\entities\\supplierproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\supplierproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\repository\\entities\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\repository\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\repository\\repositories\\supplierproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\supplierproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\repository\\repositories\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\repository\\interfaces\\isupplierproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\isupplierproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\repository\\interfaces\\isupplierrepositiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\isupplierrepositiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\service\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\service\\services\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\services\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\repository\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\service\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\repository\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61793F39-2A71-49EC-83B5-2933C151EA8A}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\service\\dtos\\supplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\dtos\\supplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\service\\interfaces\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\interfaces\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\service\\services\\extensionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\services\\extensionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\service\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\service\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\service\\dtos\\supplierproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB8DED7-479D-4551-83E0-A3EBA03B5538}|Service\\Service.csproj|solutionrelative:service\\dtos\\supplierproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B194796-13CF-4569-86B7-BD0DD53E0B63}|Exercise4\\Exercise4.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\exercise4\\controllers\\supplierproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B194796-13CF-4569-86B7-BD0DD53E0B63}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\controllers\\supplierproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B194796-13CF-4569-86B7-BD0DD53E0B63}|Exercise4\\Exercise4.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\exercise4\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B194796-13CF-4569-86B7-BD0DD53E0B63}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0676959B-BE47-4500-9654-4F075FACE812}|Mock\\Mock.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\mock\\migrations\\20250405193855_init4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0676959B-BE47-4500-9654-4F075FACE812}|Mock\\Mock.csproj|solutionrelative:mock\\migrations\\20250405193855_init4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0676959B-BE47-4500-9654-4F075FACE812}|Mock\\Mock.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\mock\\migrations\\20250405192259_init3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0676959B-BE47-4500-9654-4F075FACE812}|Mock\\Mock.csproj|solutionrelative:mock\\migrations\\20250405192259_init3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0676959B-BE47-4500-9654-4F075FACE812}|Mock\\Mock.csproj|c:\\users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\onedrive\\documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\server\\mock\\migrations\\20250406023558_init5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0676959B-BE47-4500-9654-4F075FACE812}|Mock\\Mock.csproj|solutionrelative:mock\\migrations\\20250406023558_init5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderItemSrvice.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Service\\Services\\OrderItemSrvice.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\OrderItemSrvice.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Service\\Services\\OrderItemSrvice.cs",
+              "RelativeToolTip": "Service\\Services\\OrderItemSrvice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T19:06:28.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Service\\Dtos\\OrderDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Service\\Dtos\\OrderDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\OrderDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:31:29.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Repository\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Repository\\Entities\\Order.cs",
+              "RelativeToolTip": "Repository\\Entities\\Order.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T00:13:27.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Repository\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Repository\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T00:27:04.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Service\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Service\\Services\\OrderService.cs*",
+              "RelativeToolTip": "Service\\Services\\OrderService.cs*",
+              "ViewState": "AgIAACYAAAAAAAAAAAAtwDUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T00:20:28.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Exercise4\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Exercise4\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Exercise4\\Controllers\\OrderController.cs*",
+              "RelativeToolTip": "Exercise4\\Controllers\\OrderController.cs*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T00:36:26.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Repository\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Repository\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T00:33:06.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOrderService..cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Service\\Interfaces\\IOrderService..cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IOrderService..cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Service\\Interfaces\\IOrderService..cs*",
+              "RelativeToolTip": "Service\\Interfaces\\IOrderService..cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T00:20:23.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Service\\Services\\LoginService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\LoginService.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Service\\Services\\LoginService.cs*",
+              "RelativeToolTip": "Service\\Services\\LoginService.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:33:50.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Service\\Dtos\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\OrderItemDto.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Service\\Dtos\\OrderItemDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\OrderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:31:31.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Repository\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Repository\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "Repository\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T02:21:36.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250408183347_init7.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Mock\\Migrations\\20250408183347_init7.cs",
+              "RelativeDocumentMoniker": "Mock\\Migrations\\20250408183347_init7.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Mock\\Migrations\\20250408183347_init7.cs",
+              "RelativeToolTip": "Mock\\Migrations\\20250408183347_init7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:33:47.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderItemController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Exercise4\\Controllers\\OrderItemController.cs",
+              "RelativeDocumentMoniker": "Exercise4\\Controllers\\OrderItemController.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Exercise4\\Controllers\\OrderItemController.cs",
+              "RelativeToolTip": "Exercise4\\Controllers\\OrderItemController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T19:55:24.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250408083246_init6.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Mock\\Migrations\\20250408083246_init6.cs",
+              "RelativeDocumentMoniker": "Mock\\Migrations\\20250408083246_init6.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Mock\\Migrations\\20250408083246_init6.cs",
+              "RelativeToolTip": "Mock\\Migrations\\20250408083246_init6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T08:32:46.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Exercise4\\appsettings.json",
+              "RelativeDocumentMoniker": "Exercise4\\appsettings.json",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Exercise4\\appsettings.json",
+              "RelativeToolTip": "Exercise4\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-05T19:03:08.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IProductRepositiry.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Repository\\Interfaces\\IProductRepositiry.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IProductRepositiry.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Repository\\Interfaces\\IProductRepositiry.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IProductRepositiry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T00:40:07.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Exercise4\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Exercise4\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Exercise4\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Exercise4\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:22:13.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SupplierProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Repository\\Repositories\\SupplierProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\SupplierProductRepository.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Repository\\Repositories\\SupplierProductRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\SupplierProductRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAASwCYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T00:40:22.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Repository\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Repository\\Entities\\Product.cs",
+              "RelativeToolTip": "Repository\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:57:03.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Exercise4\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Exercise4\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Exercise4\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Exercise4\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:54:32.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SupplierProduct.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Repository\\Entities\\SupplierProduct.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\SupplierProduct.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Repository\\Entities\\SupplierProduct.cs",
+              "RelativeToolTip": "Repository\\Entities\\SupplierProduct.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:56:23.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Repository\\Entities\\Supplier.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\Supplier.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Repository\\Entities\\Supplier.cs",
+              "RelativeToolTip": "Repository\\Entities\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:40:26.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExtensionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Repository\\Repositories\\ExtensionRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\ExtensionRepository.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Repository\\Repositories\\ExtensionRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\ExtensionRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T00:39:48.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IProductService..cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Service\\Interfaces\\IProductService..cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IProductService..cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Service\\Interfaces\\IProductService..cs",
+              "RelativeToolTip": "Service\\Interfaces\\IProductService..cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:11:01.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SupplierRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Repository\\Repositories\\SupplierRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\SupplierRepository.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Repository\\Repositories\\SupplierRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\SupplierRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T19:50:21.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ISupplierProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Repository\\Interfaces\\ISupplierProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\ISupplierProductRepository.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Repository\\Interfaces\\ISupplierProductRepository.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\ISupplierProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T00:39:31.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ISupplierRepositiry.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Repository\\Interfaces\\ISupplierRepositiry.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\ISupplierRepositiry.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Repository\\Interfaces\\ISupplierRepositiry.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\ISupplierRepositiry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T00:40:04.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Service\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Service\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:06:28.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SupplierService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Service\\Services\\SupplierService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\SupplierService.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Service\\Services\\SupplierService.cs",
+              "RelativeToolTip": "Service\\Services\\SupplierService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAASwCEAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:46:21.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Repository\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Repository\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowBUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T00:22:38.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Repository\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Repository\\Entities\\User.cs",
+              "RelativeToolTip": "Repository\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:18:30.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Service\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\UserDto.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Service\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:23:29.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SupplierDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Service\\Dtos\\SupplierDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\SupplierDto.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Service\\Dtos\\SupplierDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\SupplierDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvw8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:20:03.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ILoginService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Service\\Interfaces\\ILoginService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\ILoginService.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Service\\Interfaces\\ILoginService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\ILoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T19:04:38.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20250406023558_init5.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Mock\\Migrations\\20250406023558_init5.cs",
+              "RelativeDocumentMoniker": "Mock\\Migrations\\20250406023558_init5.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Mock\\Migrations\\20250406023558_init5.cs",
+              "RelativeToolTip": "Mock\\Migrations\\20250406023558_init5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T02:35:58.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Service\\Interfaces\\IService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IService.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Service\\Interfaces\\IService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T00:36:12.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ExtensionService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Service\\Services\\ExtensionService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\ExtensionService.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Service\\Services\\ExtensionService.cs",
+              "RelativeToolTip": "Service\\Services\\ExtensionService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T00:39:58.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SupplierProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Service\\Dtos\\SupplierProductDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\SupplierProductDto.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Service\\Dtos\\SupplierProductDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\SupplierProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:28:03.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Service\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Service\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:09:21.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SupplierProductController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Exercise4\\Controllers\\SupplierProductController.cs",
+              "RelativeDocumentMoniker": "Exercise4\\Controllers\\SupplierProductController.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Exercise4\\Controllers\\SupplierProductController.cs",
+              "RelativeToolTip": "Exercise4\\Controllers\\SupplierProductController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwA8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:28:38.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Exercise4\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "Exercise4\\Controllers\\SupplierController.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Exercise4\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "Exercise4\\Controllers\\SupplierController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:22:56.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20250405193855_init4.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Mock\\Migrations\\20250405193855_init4.cs",
+              "RelativeDocumentMoniker": "Mock\\Migrations\\20250405193855_init4.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Mock\\Migrations\\20250405193855_init4.cs",
+              "RelativeToolTip": "Mock\\Migrations\\20250405193855_init4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:38:55.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20250405192259_init3.cs",
+              "DocumentMoniker": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Mock\\Migrations\\20250405192259_init3.cs",
+              "RelativeDocumentMoniker": "Mock\\Migrations\\20250405192259_init3.cs",
+              "ToolTip": "C:\\Users\\\u05EA\u05DE\u05E8 \u05DC\u05D5\u05D9\\OneDrive\\Documentos\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Server\\Mock\\Migrations\\20250405192259_init3.cs",
+              "RelativeToolTip": "Mock\\Migrations\\20250405192259_init3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:22:59.371Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

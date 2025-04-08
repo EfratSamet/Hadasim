@@ -1,0 +1,51 @@
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Mock\bin\Debug\net8.0\Mock.deps.json
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Mock\bin\Debug\net8.0\Mock.runtimeconfig.json
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Mock\bin\Debug\net8.0\Mock.dll
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Mock\bin\Debug\net8.0\Mock.pdb
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Mock\bin\Debug\net8.0\Repository.dll
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Mock\bin\Debug\net8.0\Repository.pdb
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Mock\obj\Debug\net8.0\Mock.csproj.AssemblyReference.cache
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Mock\obj\Debug\net8.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Mock\obj\Debug\net8.0\Mock.AssemblyInfoInputs.cache
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Mock\obj\Debug\net8.0\Mock.AssemblyInfo.cs
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Mock\obj\Debug\net8.0\Mock.csproj.CoreCompileInputs.cache
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Mock\obj\Debug\net8.0\Mock.csproj.Up2Date
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Mock\obj\Debug\net8.0\Mock.dll
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Mock\obj\Debug\net8.0\refint\Mock.dll
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Mock\obj\Debug\net8.0\Mock.pdb
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Mock\obj\Debug\net8.0\Mock.genruntimeconfig.cache
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Mock\obj\Debug\net8.0\ref\Mock.dll
+C:\hadasim\Exercise4\Mock\bin\Debug\net8.0\Mock.deps.json
+C:\hadasim\Exercise4\Mock\bin\Debug\net8.0\Mock.runtimeconfig.json
+C:\hadasim\Exercise4\Mock\bin\Debug\net8.0\Mock.dll
+C:\hadasim\Exercise4\Mock\bin\Debug\net8.0\Mock.pdb
+C:\hadasim\Exercise4\Mock\bin\Debug\net8.0\Repository.dll
+C:\hadasim\Exercise4\Mock\bin\Debug\net8.0\Repository.pdb
+C:\hadasim\Exercise4\Mock\obj\Debug\net8.0\Mock.csproj.AssemblyReference.cache
+C:\hadasim\Exercise4\Mock\obj\Debug\net8.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\hadasim\Exercise4\Mock\obj\Debug\net8.0\Mock.AssemblyInfoInputs.cache
+C:\hadasim\Exercise4\Mock\obj\Debug\net8.0\Mock.AssemblyInfo.cs
+C:\hadasim\Exercise4\Mock\obj\Debug\net8.0\Mock.csproj.CoreCompileInputs.cache
+C:\hadasim\Exercise4\Mock\obj\Debug\net8.0\Mock.csproj.Up2Date
+C:\hadasim\Exercise4\Mock\obj\Debug\net8.0\Mock.dll
+C:\hadasim\Exercise4\Mock\obj\Debug\net8.0\refint\Mock.dll
+C:\hadasim\Exercise4\Mock\obj\Debug\net8.0\Mock.pdb
+C:\hadasim\Exercise4\Mock\obj\Debug\net8.0\Mock.genruntimeconfig.cache
+C:\hadasim\Exercise4\Mock\obj\Debug\net8.0\ref\Mock.dll
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Mock\bin\Debug\net8.0\Mock.deps.json
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Mock\bin\Debug\net8.0\Mock.runtimeconfig.json
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Mock\bin\Debug\net8.0\Mock.dll
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Mock\bin\Debug\net8.0\Mock.pdb
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Mock\bin\Debug\net8.0\Repository.dll
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Mock\bin\Debug\net8.0\Repository.pdb
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Mock\obj\Debug\net8.0\Mock.csproj.AssemblyReference.cache
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Mock\obj\Debug\net8.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Mock\obj\Debug\net8.0\Mock.AssemblyInfoInputs.cache
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Mock\obj\Debug\net8.0\Mock.AssemblyInfo.cs
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Mock\obj\Debug\net8.0\Mock.csproj.CoreCompileInputs.cache
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Mock\obj\Debug\net8.0\Mock.csproj.Up2Date
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Mock\obj\Debug\net8.0\Mock.dll
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Mock\obj\Debug\net8.0\refint\Mock.dll
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Mock\obj\Debug\net8.0\Mock.pdb
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Mock\obj\Debug\net8.0\Mock.genruntimeconfig.cache
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Mock\obj\Debug\net8.0\ref\Mock.dll

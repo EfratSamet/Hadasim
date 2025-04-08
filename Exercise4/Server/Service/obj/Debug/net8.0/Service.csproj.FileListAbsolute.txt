@@ -1,0 +1,51 @@
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Service\bin\Debug\net8.0\Service.deps.json
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Service\bin\Debug\net8.0\Service.runtimeconfig.json
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Service\bin\Debug\net8.0\Service.dll
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Service\bin\Debug\net8.0\Service.pdb
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Service\bin\Debug\net8.0\Repository.dll
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Service\bin\Debug\net8.0\Repository.pdb
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Service\obj\Debug\net8.0\Service.dll
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Service\obj\Debug\net8.0\refint\Service.dll
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Service\obj\Debug\net8.0\Service.pdb
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Service\obj\Debug\net8.0\Service.genruntimeconfig.cache
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Service\obj\Debug\net8.0\ref\Service.dll
+C:\hadasim\Exercise4\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\hadasim\Exercise4\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\hadasim\Exercise4\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\hadasim\Exercise4\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\hadasim\Exercise4\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\hadasim\Exercise4\Service\bin\Debug\net8.0\Service.deps.json
+C:\hadasim\Exercise4\Service\bin\Debug\net8.0\Service.runtimeconfig.json
+C:\hadasim\Exercise4\Service\bin\Debug\net8.0\Service.dll
+C:\hadasim\Exercise4\Service\bin\Debug\net8.0\Service.pdb
+C:\hadasim\Exercise4\Service\bin\Debug\net8.0\Repository.dll
+C:\hadasim\Exercise4\Service\bin\Debug\net8.0\Repository.pdb
+C:\hadasim\Exercise4\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+C:\hadasim\Exercise4\Service\obj\Debug\net8.0\Service.dll
+C:\hadasim\Exercise4\Service\obj\Debug\net8.0\refint\Service.dll
+C:\hadasim\Exercise4\Service\obj\Debug\net8.0\Service.pdb
+C:\hadasim\Exercise4\Service\obj\Debug\net8.0\Service.genruntimeconfig.cache
+C:\hadasim\Exercise4\Service\obj\Debug\net8.0\ref\Service.dll
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Service\bin\Debug\net8.0\Service.deps.json
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Service\bin\Debug\net8.0\Service.runtimeconfig.json
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Service\bin\Debug\net8.0\Service.dll
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Service\bin\Debug\net8.0\Service.pdb
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Service\bin\Debug\net8.0\Repository.dll
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Service\bin\Debug\net8.0\Repository.pdb
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Service\obj\Debug\net8.0\Service.dll
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Service\obj\Debug\net8.0\refint\Service.dll
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Service\obj\Debug\net8.0\Service.pdb
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Service\obj\Debug\net8.0\Service.genruntimeconfig.cache
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Service\obj\Debug\net8.0\ref\Service.dll

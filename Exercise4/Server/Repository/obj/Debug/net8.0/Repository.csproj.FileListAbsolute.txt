@@ -1,0 +1,42 @@
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Repository\bin\Debug\net8.0\Repository.runtimeconfig.json
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Repository\bin\Debug\net8.0\Repository.dll
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Repository\obj\Debug\net8.0\Repository.dll
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Repository\obj\Debug\net8.0\Repository.genruntimeconfig.cache
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Exercise4\Repository\obj\Debug\net8.0\ref\Repository.dll
+C:\hadasim\Exercise4\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\hadasim\Exercise4\Repository\bin\Debug\net8.0\Repository.runtimeconfig.json
+C:\hadasim\Exercise4\Repository\bin\Debug\net8.0\Repository.dll
+C:\hadasim\Exercise4\Repository\bin\Debug\net8.0\Repository.pdb
+C:\hadasim\Exercise4\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\hadasim\Exercise4\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\hadasim\Exercise4\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\hadasim\Exercise4\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\hadasim\Exercise4\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\hadasim\Exercise4\Repository\obj\Debug\net8.0\Repository.dll
+C:\hadasim\Exercise4\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\hadasim\Exercise4\Repository\obj\Debug\net8.0\Repository.pdb
+C:\hadasim\Exercise4\Repository\obj\Debug\net8.0\Repository.genruntimeconfig.cache
+C:\hadasim\Exercise4\Repository\obj\Debug\net8.0\ref\Repository.dll
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Repository\bin\Debug\net8.0\Repository.runtimeconfig.json
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Repository\bin\Debug\net8.0\Repository.dll
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Repository\obj\Debug\net8.0\Repository.dll
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Repository\obj\Debug\net8.0\Repository.genruntimeconfig.cache
+C:\Users\תמר לוי\OneDrive\Documentos\הדסים\Server\Repository\obj\Debug\net8.0\ref\Repository.dll
